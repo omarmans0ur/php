@@ -1,0 +1,63 @@
+*{
+    
+    border: none;
+    text-decoration: none;
+
+}
+}
+form{
+    width:670px;
+    margin:auto;
+    border-radius: 3px;
+    position: relative;
+    padding: 0px;
+    background-color:white;
+    color: gray;
+    height: 615px;
+    z-index: 2;
+}
+div {
+    width: 300px;
+    position: absolute;
+     top: 0px;
+    text-align: center;
+    color: white;
+    left:0px;
+    background-color: rgba(15, 14, 14, 0.5);
+    padding:41px 178px 27px 192px;
+    
+    
+}
+input , textarea { 
+    border-bottom: solid 1px gray;
+    width:451px;
+    display: inline-block;
+
+}
+#email , #phone {
+    margin-left: 50px;
+
+}
+section {
+    margin:35px;
+
+
+}
+input {
+    width: 450px;
+}
+input[type="submit" ]  {
+    margin-left: 230px ;
+    width: 100px;
+    height: 40px;
+    background-color: rgb(94, 199, 94);
+    border-radius: 25px;
+    color: white;
+}
+#name {
+    margin-left: 19px;
+}
+textarea {
+    margin-left: 97px ;
+    margin-top: -20px;
+}
